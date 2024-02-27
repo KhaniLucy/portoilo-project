@@ -1,7 +1,5 @@
 
-
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/portoilo-project/blob/main/Screenshot%202024-02-27%2007.58.13.png)
 
 
 # Basic Portfolio
